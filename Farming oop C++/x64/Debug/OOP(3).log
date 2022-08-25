@@ -1,0 +1,10 @@
+﻿  Fermerstvo.cpp
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.h(842,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.h(1416,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.h(1418,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.h(1420,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.h(1422,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.h(1523,1): warning C4244: +=: преобразование "double" в "long", возможна потеря данных
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\Fermerstvo.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Error.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OOP(3).vcxproj -> C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\x64\Debug\OOP(3).exe

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AptechnijMagazin_::Magazin">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABEAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>AptechnijMagazin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AptechnijMagazin_::AptechnijMagazin">
+    <Position X="4.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAACAAAACAAAAAAAAACACAAAAAAEAAAgkAAAA=</HashCode>
+      <FileName>AptechnijMagazin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bolezn">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAABAASAREAAgAAAAIAEAAAAQABAAAQAAAAACEAA=</HashCode>
+      <FileName>Bolezn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tovar">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAggAEJEAACAAAAAAAAAAAAABAAAAAAAAgAAAA=</HashCode>
+      <FileName>Lekarstva.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lekarstvo">
+    <Position X="6.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAQAgIAAgAgACKAAAAAAAAABCAAAEIAAAAAA=</HashCode>
+      <FileName>Lekarstva.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,158 @@
+Fermers
+
+Name: Petrenko Petro Petrovich
+Budjet: 10000
+---
+Name: Ivaschenko Mykuta Olegovich
+Budjet: 200000
+---
+Name: Anna Petrovna Sumonenko
+Budjet: 30000
+---
+Name: Biluk Ivan Sergeevich
+Budjet: 120000
+---
+Name: Ivanov Ivan Ivanovich
+Budjet: 120000
+
+Production
+
+Fermer: Petrenko Petro Petrovich
+Nazva: Pomidory
+Vid: Ovocshi
+Kolichestvo: 20
+CenaZaEdenicu: 5000
+Odynyci: t
+---
+Fermer: Petrenko Petro Petrovich
+Nazva: watermelon
+Vid: Fructi
+Kolichestvo: 300
+CenaZaEdenicu: 60
+Odynyci: kg
+---
+Fermer: Ivaschenko Mykuta Olegovich
+Nazva: rye
+Vid: Zerno
+Kolichestvo: 7
+CenaZaEdenicu: 1700
+Odynyci: t
+---
+Fermer: Ivaschenko Mykuta Olegovich
+Nazva: potato
+Vid: Ovocshi
+Kolichestvo: 400
+CenaZaEdenicu: 70
+Odynyci: kg
+---
+Fermer: Ivaschenko Mykuta Olegovich
+Nazva: pork
+Vid: Miaso
+Kolichestvo: 700
+CenaZaEdenicu: 120
+Odynyci: kg
+---
+Fermer: Anna Petrovna Sumonenko
+Nazva: grapes
+Vid: Fructi
+Kolichestvo: 500
+CenaZaEdenicu: 100
+Odynyci: kg
+---
+Fermer: Anna Petrovna Sumonenko
+Nazva: wheat
+Vid: Zerno
+Kolichestvo: 10
+CenaZaEdenicu: 1200
+Odynyci: t
+---
+Fermer: Anna Petrovna Sumonenko
+Nazva: rye
+Vid: Zerno
+Kolichestvo: 20
+CenaZaEdenicu: 2000
+Odynyci: t
+---
+Fermer: Biluk Ivan Sergeevich
+Nazva: apple
+Vid: Fructi
+Kolichestvo: 200
+CenaZaEdenicu: 50
+Odynyci: kg
+---
+Fermer: Biluk Ivan Sergeevich
+Nazva: onion
+Vid: Ovocshi
+Kolichestvo: 100
+CenaZaEdenicu: 30
+Odynyci: kg
+---
+Fermer: Ivanov Ivan Ivanovich
+Nazva: Apple
+Vid: Fructi
+Kolichestvo: 12
+CenaZaEdenicu: 50
+Odynyci: kg
+
+Potrebi
+
+Fermer: Petrenko Petro Petrovich
+Production: Pomidory
+Type: SredstvaPriizvodstva
+Name: device
+Kolichestvo: 70
+Cena: 2000
+---
+Fermer: Petrenko Petro Petrovich
+Production: watermelon
+Type: SredstvaPriizvodstva
+Name: knife
+Kolichestvo: 18
+Cena: 10000
+Fermer: Ivaschenko Mykuta Olegovich
+Production: rye
+Type: SredstvaPriizvodstva
+Name: device
+Kolichestvo: 700
+Cena: 20000
+---
+Fermer: Ivaschenko Mykuta Olegovich
+Production: potato
+Type: Udobrenija
+Name: gerbitsidi
+Kolichestvo: 200
+Cena: 20000
+---
+Fermer: Anna Petrovna Sumonenko
+Production: grapes
+Type: TransportnijeUslugi
+Name: perevozki
+Kolichestvo: 20
+Cena: 100
+---
+Fermer: Anna Petrovna Sumonenko
+Production: wheat
+Type: TransportnijeUslugi
+Name: tractor
+Kolichestvo: 17
+Cena: 1000
+---
+Fermer: Biluk Ivan Sergeevich
+Production: apple
+Type: Udobrenija
+Name: humus
+Kolichestvo: 300
+Cena: 300
+---
+Fermer: Biluk Ivan Sergeevich
+Production: onion
+Type: Udobrenija
+Name: humus
+Kolichestvo: 300
+Cena: 300
+Fermer: Ivanov Ivan Ivanovich
+Production: Apple
+Type: Udobrenija
+Name: Peregniy
+Kolichestvo: 300
+Cena: 10000

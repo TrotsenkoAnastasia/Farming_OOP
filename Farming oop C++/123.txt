@@ -1,0 +1,60 @@
+Fermers
+
+Name: Anatol ANatoliev Anatolievich
+Budjet: 300
+---
+Name: Anna Petrovna Petrenko
+Budjet: 3000
+---
+Name: Petrov Petro Petrovich
+Budjet: 2000
+---
+Name: Petrenko Petro Petrovich
+Budjet: 1000
+
+Production
+
+Fermer: Anatol ANatoliev Anatolievich
+Nazva: strowberry
+Vid: Fructi
+Kolichestvo: 200
+CenaZaEdenicu: 100
+Odynyci: kg
+---
+Fermer: Anna Petrovna Petrenko
+Nazva: Clivu
+Vid: Fructi
+Kolichestvo: 50
+CenaZaEdenicu: 3000
+Odynyci: kg
+---
+Fermer: Petrenko Petro Petrovich
+Nazva: Pomidory
+Vid: Ovocshi
+Kolichestvo: 20
+CenaZaEdenicu: 5000
+Odynyci: t
+
+Potrebi
+
+Fermer: Anatol ANatoliev Anatolievich
+Production: strowberry
+Type: Udobrenija
+Name: gerbits
+Kolichestvo: 20
+Cena: 10
+---
+Fermer: Anna Petrovna Petrenko
+Production: Clivu
+Type: TransportnijeUslugi
+Name: Perevozki
+Kolichestvo: 200
+Cena: 300
+---
+Fermer: Petrenko Petro Petrovich
+Production: Pomidory
+Type: TransportnijeUslugi
+Name: Perevozki
+Kolichestvo: 300
+Cena: 500
+

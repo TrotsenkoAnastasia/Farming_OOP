@@ -1,0 +1,3 @@
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\x64\Debug\OOP(3).vcxprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\x64\Debug\OOP3.Fermerstvo.resources
+C:\Users\Anastasia\Desktop\навчання 2020\2 семестр\курсова\OOP(3)\x64\Debug\OOP(3).vcxproj.GenerateResource.cache
